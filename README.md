@@ -60,13 +60,13 @@ assign BO = (~A & B) | (~A & Cin) | (B & Cin);
 endmodule
 ```
 **RTL Schematic**
-<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/fcf2d67f-0e32-4307-9a39-63e7193a6092" />
+<img width="1599" height="892" alt="image" src="https://github.com/user-attachments/assets/cda2eb5b-e5d2-4d26-9d2a-a8eb8ccaa229" />
 
 **Output Timing Waveform**
-<img width="1600" height="966" alt="image" src="https://github.com/user-attachments/assets/7bb8d397-7691-4bc6-95ae-86581bc87200" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/85d6c569-20af-491c-bb39-fb180868a520" />
 
 **Result:**
-<img width="1600" height="894" alt="image" src="https://github.com/user-attachments/assets/7879022e-8962-4f91-bda8-800319f98688" />
+<img width="1600" height="885" alt="image" src="https://github.com/user-attachments/assets/e17801c4-1e3a-435f-9bd7-5fd1c298d6d7" />
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
